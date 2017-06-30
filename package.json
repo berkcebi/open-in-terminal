@@ -1,14 +1,14 @@
 {
   "name": "open-in-terminal",
   "main": "./lib/open-in-terminal",
-  "version": "0.1.0",
+  "version": "0.0.0",
   "description": "An Atom package that opens the active project in Terminal, on macOS.",
   "keywords": [
   ],
   "activationCommands": {
     "atom-workspace": "open-in-terminal:open-project-in-terminal"
   },
-  "repository": "https://github.com/atom/open-in-terminal",
+  "repository": "https://github.com/berkcebi/open-in-terminal",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
