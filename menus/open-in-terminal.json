@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    ".tree-view": [
+      {
+        "label": "Open Project in Terminal",
+        "command": "open-in-terminal:open-project-in-terminal"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Open in Terminal",
+          "submenu": [
+            {
+              "label": "Open Project in Terminal",
+              "command": "open-in-terminal:open-project-in-terminal"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
